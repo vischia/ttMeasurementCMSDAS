@@ -2,14 +2,12 @@
 
 
 In the current exercise you will use two tools for statistical analysis that are of common usage in High Energy Physics.
-The objective of the current exercise is to learn how to measure the production cross section of top quark pairs at sqrt(s)=5TeV; the cross section is the *observable* (the physical quantity) that we want to determine from our data obtaining a *measurement*, e.g. stating that the cross section is XXX (*value*) +/- YYY (*uncertainty*) pb. The same problem is referred to in statistics as *parameter estimation*; the cross section is the *parameter*, which in nature has a specific value (or range of values), the *true value*. We obtain an *estimate* of the parameter when we quote a certain value (*point estimate*) and a range of values (*interval*).
+The objective of the current exercise is to learn how to measure the production cross section of top quark pairs at sqrt(s)=5TeV; the cross section is the *observable* (the physical quantity) that we want to determine from our data obtaining a *measurement*, e.g. stating that the cross section is XXX (*value*) +/- YYY (*uncertainty*) pb. The same problem is referred to in statistics as *parameter estimation*; the cross section is the *parameter*, which in nature has a specific value (or range of values), the *true value*. We obtain an *estimate* of the parameter when we quote a certain value (*point estimate*) and a range of values around it (*interval*).
 
 ## References on statistical methods
 
-A good overview of statistics at the LHC can be found in a [Practical Statistics for the LHC by Kyle Cranmer](https://arxiv.org/abs/1503.07622), whereas a more complete treatment of the statistics commonly used at the LHC can be found in the nice [Statistical Methods for Experimental Physics by Fred James](https://www.amazon.com/Statistical-Methods-Experimental-Physics-2Nd/dp/9812705279). Both references are from particle physicists, so the language should not be too obscure. If you are interested in the statisticians' take on the topic---which I recommend---you can read the very nice book [Statistical Inference by Casella and Berger](https://www.amazon.fr/Statistical-Inference-George-Casella/dp/0495391875/).
+A good overview of statistics at the LHC can be found in [Practical Statistics for the LHC by Kyle Cranmer](https://arxiv.org/abs/1503.07622), whereas a more complete treatment of the statistics commonly used at the LHC can be found in the nice [Statistical Methods for Experimental Physics by Fred James](https://www.amazon.com/Statistical-Methods-Experimental-Physics-2Nd/dp/9812705279). Both references are from particle physicists, so the language should not be too obscure. If you are interested in the statisticians' take on the topic---which I recommend---you can read the very nice book [Statistical Inference by Casella and Berger](https://www.amazon.fr/Statistical-Inference-George-Casella/dp/0495391875/).
 
-
-in statistics, the very same problem
 ## Setup your environment
 
 Higgs combination tool documentation: 
