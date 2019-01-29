@@ -1,0 +1,12 @@
+## Muon+jets signal region
+
+observed data: 3000 \pm 55
+ttbar: 2000 \pm 20
+DY: 60 \pm 40
+single top: 800 \pm 300
+
+2.6% uncertainty on luminosity
+1% uncertainty on muon identification
+50% uncertainty on DY normalization
+10% uncertainty on single top normalization
+

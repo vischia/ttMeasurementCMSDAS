@@ -1,0 +1,10 @@
+## Electron+jets signal region
+
+ttbar: 1800 \pm 50
+DY: 80 \pm 50
+single top: 700 \pm 100
+
+2.6% uncertainty on luminosity
+3% uncertainty on electron identification
+50% uncertainty on DY normalization
+10% uncertainty on single top normalization
