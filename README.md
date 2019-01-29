@@ -17,7 +17,7 @@ A good overview of statistics at the LHC can be found in [Practical Statistics f
    - You can use [a simple implementation by Andrea Giammanco](http://agiamman.web.cern.ch/agiamman/blue/)
    - In case you need a full-fledged tool, check out the [hepforge BLUE package by Richard Nisius](https://blue.hepforge.org/)
 
-* **Combine**, the Higgs combination tool, developed within CMS originally as a framework for the discovery of the Higgs boson. Now it has been extended to multiple use cases, and is used in many CMS analyses. You will definitely have to use it in your everyday (work) life. The documentation of the package [is pretty good](https://github.com/cms-analysis/HiggsAnalysis-CombinedLimit/wiki), but be warned that nothing substitutes [looking into the source code](https://github.com/cms-analysis/HiggsAnalysis-CombinedLimit) to understand exactly what each option does, when in doubt.
+* **Combine**, the Higgs combination tool, developed within CMS originally as a framework for the discovery of the Higgs boson. Now it has been extended to multiple use cases, and is used in many CMS analyses. You will definitely have to use it in your everyday (work) life. The documentation of the package [is pretty good](https://github.com/cms-analysis/HiggsAnalysis-CombinedLimit/wiki), but be warned that nothing substitutes [looking into the source code](https://github.com/cms-analysis/HiggsAnalysis-CombinedLimit) to understand exactly what each option does, when in doubt. A quick look at [the procedures developed for the ATLAS+CMS Higgs boson combination](https://cds.cern.ch/record/1379837) can give you an idea of the connection between the material contained in the software and its mathematical formulation.
 
 
 ## Setup your environment
