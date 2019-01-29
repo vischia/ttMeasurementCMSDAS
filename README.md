@@ -17,7 +17,7 @@ Link to combine documentation
 
 Signal region, counting only, one or two uncertainties
 
-Determine the cross section of ttbar production separately in the mu+jets (examples/mujets.txt) and the el+jets final state (examples/eljets.txt), and plot the corresponding likelihoods
+Determine the cross section of ttbar production separately in the [mu+jets final state](examples/mujets.txt) and the el+jets final state (examples/eljets.txt), and plot the corresponding likelihoods
 
 Combine the two measurements making use of BLUE (Best Linear Unbiased Estimator)
 Determine the cross section for ttbar production my making use simultaneously of the two final states using combine; combineCards.py
